@@ -438,9 +438,9 @@
               "src": "@PROJECT_PATH@/assets/images/my-final-logo-128x128-4.png",
               "height": 128,
               "alt": "Calvary Chapel Yuma",
-              "link": "https://jberilla.github.io/NDTLevel3/index.html",
+              "link": "http://www.ccyuma.com/ccyuma/index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",

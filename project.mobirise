@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "newindex.html",
     "versionFirst": "3.5.1",
     "versionPublish": "3.9.2",
     "name": "Calvary Chapel Yuma",
@@ -26,7 +26,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/calvary-chapel-dove1-128x113-3.png",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
-    "uniqCompNum": 36
+    "uniqCompNum": 41
   },
   "pages": {
     "directions.html": {

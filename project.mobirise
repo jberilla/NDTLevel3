@@ -1418,8 +1418,8 @@
           "_name": "news1",
           "_anchor": "news1-l",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/2.jpg",
